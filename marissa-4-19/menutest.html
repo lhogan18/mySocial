@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+<style>
+
+    a:link{color:white;}/* Dropdown Button */
+    .dropbtn {
+        background-color: white;
+        color: white;
+        padding: 16px;
+        font-size: 16px;
+        border: none;
+        text-decoration: none;
+        cursor:pointer;
+    }
+    #twit{background-color:#00acee;}
+    #insta{background-color:#e95950;}
+    #home{background-color:black;}
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f1f1f1;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+    }
+    .dropdown-content a {
+        /* Links inside the dropdown */
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+    .dropdown-content a:hover {background-color: #ddd;} /* Change color of dropdown links on hover */
+    .dropdown:hover .dropdown-content {display: block;} /* Show the dropdown menu on hover */
+    .dropdown:hover .dropbtn {background-color: #3e8e41;}   /* Change the background color of the dropdown button when the dropdown content is shown */
+
+</style>
+
+<body>
+    <div id="menu">
+        <div class="dropdown">
+            <button class="dropbtn" id="home"><a href="templates/homepage.html" style="text-decoration: none; color:white;">Main Page</a></button>
+        </div>
+        <div class="dropdown">
+            <button class="dropbtn" id="twit">Twitter</button>
+            <div class="dropdown-content">
+                <a href="templates/twitterpersonal.html">Twitter Personal</a>
+                <a href="templates/twittercompare.html">Twitter Compare</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <button class="dropbtn" id="insta">Instagram</button>
+            <div class="dropdown-content">
+                <span><a href="templates/InstaLoggedIn.html">Instagram Personal</a></span>
+                <span><a href="templates/instatrending.html">Instagram Trending</a></span>
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>

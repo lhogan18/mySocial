@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f936c72-80f5-49fe-a135-ce58f6f6af26" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZZzX4dkKCcyPjii4CwEMcst1TL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/alunarae/Downloads/mySocial-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alunarae\PycharmProjects\mysocial_test1\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="mysocial_test1" type="Python.FlaskServer">
+      <module name="mysocial_test1" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f936c72-80f5-49fe-a135-ce58f6f6af26" name="Default Changelist" comment="" />
+      <created>1585061440832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585061440832</updated>
+      <workItem from="1585061454248" duration="8701000" />
+      <workItem from="1585585752270" duration="14401000" />
+      <workItem from="1587152442740" duration="17505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="339" y="70" key="FileChooserDialogImpl" timestamp="1587150934314">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="339" y="70" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587150934314" />
+    <state width="933" height="140" key="GridCell.Tab.0.bottom" timestamp="1587155683910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="933" height="140" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587155683910" />
+    <state width="933" height="140" key="GridCell.Tab.0.center" timestamp="1587155683910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="933" height="140" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587155683910" />
+    <state width="933" height="140" key="GridCell.Tab.0.left" timestamp="1587155683910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="933" height="140" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587155683910" />
+    <state width="933" height="140" key="GridCell.Tab.0.right" timestamp="1587155683910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="933" height="140" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587155683910" />
+    <state x="530" y="460" key="com.intellij.ide.util.TipDialog" timestamp="1587152455169">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="530" y="460" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587152455169" />
+    <state x="132" y="31" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587327798872">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="132" y="31" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1587327798872" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mysocial_test1$mysocial_test1.coverage" NAME="mysocial_test1 Coverage Results" MODIFIED="1587155428759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
